@@ -32,7 +32,7 @@ $(document).ready(function(){
 });
 
 function playMusic () {
-  $('#music')[0].volume = 0.5;
+  $('#music')[0].volume = 0.2;
   $('#music')[0].load();
   $('#music')[0].play();
 }
