@@ -37,12 +37,13 @@ background-color: black;
 
 
 .ryu-throwing {
-  background-image: url('../images/ryu-throwing-hadouken.png');
+  background-image: url('../images/VAN.png');
   width: 659px;
   height: 494px;
   background-repeat: no-repeat;
   display: none;
   position: relative;
+  background-size: 100%;
 }
 
 
